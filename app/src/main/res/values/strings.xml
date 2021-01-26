@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Anne Dawson</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Anne.
+        \n\nI am a Computer Science instructor and
+        \nAndroid App developer. I\'ve been
+        \ndeveloping Android apps for a few years now.
+        \nI\'ve been programming continually since the
+        \nmid 1970\'s. My first programming languages
+        \nwere BASIC, Fortran 77, Pascal and Algol 60.
+        \nI went on to study C, C++ and later Java and Python.
+        \nMy current programming language of choice is Kotlin.
+        \nI\'m studying Android app development using Kotlin
+        \nby completing Udacity/Google developed training
+        \nmaterial and studying the wealth of information
+        \navailable online.\n
+        \nMy long term plan is to keep abreast of the
+        \nlatest developments in Android and Kotlin so
+        \nthat I can pass on my knowledge in the form
+        \nof educational YouTube videos on my channel at
+        \nhttps://www.youtube.com/c/AnneDawson
+        \n
+        \nYou can read about my computer science background here:
+        \nhttp://www.annedawson.net/education.html\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
