@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">About Me</string>
-    <string name="name">Anne Dawson</string>
+    <string name="name">Dawson</string>
     <string name="yellow_star">Yellow Star</string>
     <string name="bio">Hello, my name is Anne.
         \n\nI am a Computer Science instructor and
